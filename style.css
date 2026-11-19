@@ -40,7 +40,7 @@ section {
     background-color: white;
 }
 
-/* TITULOS */
+
 h2 {
     color: #293b35;
 }
@@ -49,13 +49,13 @@ h3 {
     color: #806b50;
 }
 
-/* IMAGENES */
+
 img {
     max-width: 100%;
     height: auto;
 }
 
-/* PIE DE PAGINA */
+
 footer {
     background-color: #293b35;
     color: white;
