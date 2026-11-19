@@ -1,0 +1,63 @@
+body {
+    background-color: #f5f0e8;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+
+header {
+    background-color: #293b35;
+    color: white;
+    text-align: center;
+}
+
+
+nav {
+    background-color: #b7a58b;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 15px;
+}
+
+nav a {
+    color: #293b35;
+    text-decoration: none;
+}
+
+
+main {
+    margin: 20px;
+}
+
+section {
+    background-color: white;
+}
+
+/* TITULOS */
+h2 {
+    color: #293b35;
+}
+
+h3 {
+    color: #806b50;
+}
+
+/* IMAGENES */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* PIE DE PAGINA */
+footer {
+    background-color: #293b35;
+    color: white;
+    text-align: center;
+}
